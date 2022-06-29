@@ -7,22 +7,22 @@
 
 <p align='center'>
    <a href="www.linkedin.com/in/deepan-adak"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/spotify.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/DeepanAdak"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://github.com/mr-prometheus"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/deepan_adak/"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
  <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Deepan Adak | 💻 Deep Learning Developer | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Deepan Adak | 💻 Deep Learning Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 
 
 <p align="center">
-   <a href="https://badges.pufler.dev/visits/mr-prometheus/README.md"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mr-prometheus/README.md"> </a>
+   <a href="https://badges.pufler.dev/visits/mr-prometheus/README.md"> <img alt="deepan adak github" src="https://badges.pufler.dev/visits/mr-prometheus/README.md"> </a>
  </p>
  
  <h5 align="center">
