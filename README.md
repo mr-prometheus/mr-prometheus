@@ -10,7 +10,7 @@
 <a href="https://twitter.com/DeepanAdak"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://github.com/mr-prometheus"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/deepan_adak/"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+ <a href="buymeacoffee.com/deepuadakL"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 
