@@ -31,7 +31,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media0.giphy.com/media/CVtNe84hhYF9u/giphy.gif?cid=ecf05e479hc4y6hzigpm9m1tn5caiqi15458877i5fsr690d&rid=giphy.gif&ct=g" />
 <p align="center">
   <h3> I'm an Deep learning and Computer Vision developer exploring fields in Robotics and AI.</h3>
 </p>
@@ -64,18 +64,15 @@
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
@@ -98,7 +95,7 @@
 <br />
 
 <p align="center">
-   <img src="https://media0.giphy.com/media/CVtNe84hhYF9u/giphy.gif?cid=ecf05e479hc4y6hzigpm9m1tn5caiqi15458877i5fsr690d&rid=giphy.gif&ct=g" />
+   <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gmgmg5ni8eb5s2be7vvow6zgl4knzqrnuzpflfki&rid=giphy.gif&ct=g" />
    </p>
    
    
