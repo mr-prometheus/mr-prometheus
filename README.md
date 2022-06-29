@@ -22,7 +22,7 @@
 
 
 <p align="center">
-   <a href="https://badges.pufler.dev/visits/mr-prometheus/README.md"> <img alt="deepan adak github" src="https://badges.pufler.dev/visits/mr-prometheus/README.md"> </a>
+   <a href="https://badges.pufler.dev/visits/mr-prometheus/mr-prometheus"> <img alt="deepan adak github" src="https://badges.pufler.dev/visits/mr-prometheus/mr-prometheus"> </a>
  </p>
  
  <h5 align="center">
