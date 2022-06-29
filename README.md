@@ -69,13 +69,13 @@
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/jupyter.svg" alt="jupyter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/pytorch.png" alt="jupyter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/flask.svg" alt="css" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/c.svg" alt="c" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/c-programming.svg" alt="c" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/c-plus-plus.png" alt="cpp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/css3.svg" alt="css" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/languages/sql-server.png" alt="sql" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/sql-server.png" alt="sql" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
