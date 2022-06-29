@@ -98,7 +98,7 @@
 <br />
 
 <p align="center">
-   <img src="https://giphy.com/gifs/artificial-intelligence-singularity-CVtNe84hhYF9u" />
+   <img src="https://media0.giphy.com/media/CVtNe84hhYF9u/giphy.gif?cid=ecf05e479hc4y6hzigpm9m1tn5caiqi15458877i5fsr690d&rid=giphy.gif&ct=g" />
    </p>
    
    
