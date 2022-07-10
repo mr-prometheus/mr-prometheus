@@ -21,9 +21,7 @@
 
 
 
-<p align="center">
-   <a href="https://badges.pufler.dev/visits/mr-prometheus/mr-prometheus"> <img alt="deepan adak github" src="https://badges.pufler.dev/visits/mr-prometheus/mr-prometheus"> </a>
- </p>
+
  
  <h5 align="center">
    <i>⚡️Make a learning everyday be it that of even 0.1%⚡️</i>
