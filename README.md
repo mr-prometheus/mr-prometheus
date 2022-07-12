@@ -21,7 +21,7 @@
 
 
 <p align="center">
-   <a href="https://komarev.com/ghpvc/?username=mr-prometheus&label=PROFILE+VIEWS"> <img alt="deepan adak github" src="https://badges.pufler.dev/visits/mr-prometheus/mr-prometheus"> </a>
+   <a href="https://komarev.com/ghpvc/?username=mr-prometheus&label=PROFILE+VIEWS"> <img alt="deepan adak github" src="https://komarev.com/ghpvc/?username=mr-prometheus&label=PROFILE+VIEWS"> </a>
  </p>
 
  
@@ -31,7 +31,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media0.giphy.com/media/CVtNe84hhYF9u/giphy.gif?cid=ecf05e479hc4y6hzigpm9m1tn5caiqi15458877i5fsr690d&rid=giphy.gif&ct=g" />
+<img align="right" height="370px" width="450px" alt="GIF" src="https://media0.giphy.com/media/CVtNe84hhYF9u/giphy.gif?cid=ecf05e479hc4y6hzigpm9m1tn5caiqi15458877i5fsr690d&rid=giphy.gif&ct=g" />
 <p align="center">
   <h3> I'm an Deep learning and Computer Vision developer exploring fields in Robotics and AI.</h3>
 </p>
