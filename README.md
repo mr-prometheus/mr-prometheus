@@ -20,7 +20,9 @@
 </div>
 
 
-
+<p align="center">
+   <a href="https://komarev.com/ghpvc/?username=mr-prometheus&label=PROFILE+VIEWS"> <img alt="deepan adak github" src="https://badges.pufler.dev/visits/mr-prometheus/mr-prometheus"> </a>
+ </p>
 
  
  <h5 align="center">
