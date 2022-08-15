@@ -6,7 +6,7 @@
 </div>
 
 <p align='center'>
-   <a href="www.linkedin.com/in/deepan-adak"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/deepan-adak/"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/DeepanAdak"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://github.com/mr-prometheus"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/deepan_adak/"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
