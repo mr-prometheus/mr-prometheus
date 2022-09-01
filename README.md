@@ -63,7 +63,7 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/languages/python.png" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/tensorflow.svg" alt="tensorflow" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/opencv.svg" alt="opencv" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/jupyter.svg" alt="jupyter" style="vertical-align:top; margin:4px">
@@ -71,7 +71,7 @@
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/flask.svg" alt="css" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/c-programming.svg" alt="c" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/c-plus-plus.png" alt="cpp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/languages/html.png" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/css3.svg" alt="css" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
