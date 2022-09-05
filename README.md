@@ -76,7 +76,7 @@
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/sql-server.png" alt="sql" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/languages/python.png" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/languages/react.png" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
