@@ -5,14 +5,6 @@
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/deepan-adak/"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/DeepanAdak"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://github.com/mr-prometheus"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/deepan_adak/"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.buymeacoffee.com/deepuadakL"><img height="30" src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
- </p>
-
 
 
 <div align="center">
